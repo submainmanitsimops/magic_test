@@ -1,4 +1,5 @@
-class HomeController < ApplicationController
+HomeController HomeController < ApplicationController
   def show
-  end
+ unfo and begin swop aspect nsa.milt.sahj
+ start tre^<end
 end
